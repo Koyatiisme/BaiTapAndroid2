@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346647232802",
+    "firebase_url": "https://btandroid-b3b4e-default-rtdb.firebaseio.com",
+    "project_id": "btandroid-b3b4e",
+    "storage_bucket": "btandroid-b3b4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346647232802:android:624f4ee48dc8120e4ba57b",
+        "android_client_info": {
+          "package_name": "com.example.baitap2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaNCUzKzeR20Yu2VA6ss9I2hSGSJJlyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
